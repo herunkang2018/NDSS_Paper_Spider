@@ -19,4 +19,4 @@ The default folder to store downloaded file is configured in settings.py
 ABS_PATH = E:\\NDSS2017 #set what you like
 ```
 
-Any question you have, feel free to open a issue.
+Any question you have, feel free to open an issue.
