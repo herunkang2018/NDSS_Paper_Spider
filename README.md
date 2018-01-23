@@ -16,7 +16,7 @@ scrapy crawl ndss_paper_spider
 ```
 The default folder to store downloaded file is configured in settings.py:
 ```
-ABS_PATH = E:\\NDSS2017 #set what you like
+ABS_PATH = E:\\NDSS2017 #set what you like, it will automaticlly create pdfs/slides/videos child folders
 ```
 
 Any question you have, feel free to open an issue.
