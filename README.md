@@ -14,7 +14,7 @@ git clone git@github.com:hackeryard/NDSS_Paper_Spider.git
 cd NDSS_Paper_Spider
 scrapy crawl ndss_paper_spider
 ```
-The default folder to store downloaded file is configured in settings.py
+The default folder to store downloaded file is configured in settings.py:
 ```
 ABS_PATH = E:\\NDSS2017 #set what you like
 ```
