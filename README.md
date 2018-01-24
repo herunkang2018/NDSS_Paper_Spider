@@ -18,8 +18,7 @@ The default folder to store downloaded file is configured in settings.py:
 ```
 ABS_PATH = E:\\NDSS2017 #set what you like
 ```
-It will automaticlly create child folders:
-ABS_PATH:
+It will automaticlly create child folders of ABS_PATH:
 - pdfs
 - slides
 - videos
